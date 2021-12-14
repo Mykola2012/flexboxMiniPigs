@@ -3,6 +3,3 @@
 
 #Don't ignore .gitignore
 !.gitignore
-
-#Ignore vscode configs
-.vscode/
